@@ -10,7 +10,8 @@
 - Manutenção preventiva e corretiva da frota.
 
 A falta de um sistema centralizado para gerenciar essas informações resulta em perdas financeiras, tempo desperdiçado e dificuldades operacionais para a distribuidora. <br/>
-</p>
+</p><br><br>
+
 
 <p align="center">Funcionalidades Esperadas</p>
 
