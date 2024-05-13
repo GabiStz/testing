@@ -15,15 +15,15 @@ A falta de um sistema centralizado para gerenciar essas informações resulta em
 <p align="center">Funcionalidades Esperadas</p>
 
 <p> 
- Registro de Motoristas e Veículos:Permitir o cadastro e a atualização de informações dos motoristas e veículos da frota.<br>
- Monitoramento de Despesas:Possibilitar o registro e acompanhamento das despesas relacionadas a cada veículo, como combustível, manutenção e reparos.<br>
- Controle de Multas e Infrações:Registrar as multas e infrações de trânsito associadas a cada motorista, possibilitando a identificação de padrões e ações corretivas.<br>
- Rastreamento de Rotas:Integrar um sistema de rastreamento para monitorar as rotas percorridas pelos veículos, garantindo maior controle e segurança..<br>
- Relatórios Gerenciais: Gerar relatórios detalhados sobre o desempenho da frota, gastos associados, histórico de infrações e outros indicadores importantes para a tomada de decisões.</p>
+ •Registro de Motoristas e Veículos: Permitir o cadastro e a atualização de informações dos motoristas e veículos da frota.<br><br>
+ •Monitoramento de Despesas: Possibilitar o registro e acompanhamento das despesas relacionadas a cada veículo, como combustível, manutenção e reparos.<br><br>
+ •ontrole de Multas e Infrações: Registrar as multas e infrações de trânsito associadas a cada motorista, possibilitando a identificação de padrões e ações corretivas.<br><br>
+ •Rastreamento de Rotas: Integrar um sistema de rastreamento para monitorar as rotas percorridas pelos veículos, garantindo maior controle e segurança..<br><br>
+ •Relatórios Gerenciais: Gerar relatórios detalhados sobre o desempenho da frota, gastos associados, histórico de infrações e outros indicadores importantes para a tomada de decisões.</p>
 
 
 <p align="center">
-  <a href="#-empresa">Empresa Parceira.</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;>
+  <h3>Empresa Parceira.</h3>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;>
 </p>
 
 <br/>
@@ -39,9 +39,9 @@ A falta de um sistema centralizado para gerenciar essas informações resulta em
 - **Banco de Dados:** PostgreSQL
 - **Outras Informações:** Docker | AWS | StoryBook | Jenkis | Node.js
 
-##💻 Desenvolvedores
+💻 Desenvolvedores
 
 Gabriele Steinmetz |
 Cristovão Martins |
 Ademar Ramalho | 
-Anderson Schardosin |
+Anderson Schardosin 
