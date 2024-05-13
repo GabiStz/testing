@@ -23,7 +23,7 @@ A falta de um sistema centralizado para gerenciar essas informações resulta em
 
 
 <p align="center">
-  <h3>Empresa Parceira.</h3>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;>
+  <h3>Empresa Parceira.</h3>
 </p>
 
 <br/>
